@@ -31,6 +31,7 @@ def circulate():
 ```
 
 ## Output:
-![Alt text](output-1.png)
+![output](https://github.com/Gokhulraj2005/Circulate-the-values-of-N-variables/assets/138849253/7e7dc140-5b13-460a-aa99-2af0c7b52c26)
+
 ## Result:
 The above porogram is executed successfully.
